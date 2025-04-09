@@ -10,7 +10,7 @@ ________________________________________________________________________________
 •	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#%EF%B8%8F-methodology'>Methodology </a><br>
 •	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-dashboard-interface'>Dashboard Interface </a><br>
 •	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-key-insights--findings'>Key Insights & Findings </a><br>
-•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-tools--technologies-used'>Tools and Technologies Used </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-tools--technologies-used'>Tools & Technologies Used </a><br>
 •	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-future-work--improvements'>Future Work & Improvements </a><br>
 •	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-conclusion'>Conclusion </a><br>
 
