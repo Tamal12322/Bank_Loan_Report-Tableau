@@ -27,6 +27,7 @@ ________________________________________________________________________________
 
 <h2>ℹ️ Data Source</h2>
 
+The project is based on a comprehensive <a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/blob/main/financial_loan.csv'>dataset</a> stored in csv file which encompasses various aspects of bank loans.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>🛠️ Project Methodology</h2>
@@ -45,6 +46,15 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 <h2>📊 Dashboard Interface</h2>
+
+<h3>Summary Panel</h3>
+<img src="https://github.com/Tamal12322/Bank_Loan_Report-Tableau/blob/main/Summary%20Screenshot.png">
+
+<h3>Overview Panel</h3>
+<img src="https://github.com/Tamal12322/Bank_Loan_Report-Tableau/blob/main/Overview%20Screenshot.png">
+
+<h3>Details Panel</h3>
+<img src="https://github.com/Tamal12322/Bank_Loan_Report-Tableau/blob/main/Details%20Screenshot.png">
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
