@@ -2,13 +2,28 @@
 An interactive Bank Loan project analyzing 38K+ loan records using Excel, SQL, and Tableau. Provides insights into loan performance, borrower behavior, and risk segmentation through dynamic visualizations.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+<h2>📋 Table of Contents</h2>
+
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-project-overview'>Project Overview </a><br>
+• <a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-objectives'>Objectives </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#%E2%84%B9%EF%B8%8F-data-source'>Data Source </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#%EF%B8%8F-methodology'>Methodology </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-dashboard-interface'>Dashboard Interface </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-key-insights--findings'>Key Insights & Findings </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-tools--technologies-used'>Tools and Technologies Used </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-future-work--improvements'>Future Work & Improvements </a><br>
+•	<a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/tree/main?tab=readme-ov-file#-conclusion'>Conclusion </a><br>
+
+
+________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 <h2>📘 Project Overview</h2>
 
 This Bank Loan project provides a comprehensive analysis of 38,000+ loan applications using interactive Tableau visualizations. It covers key financial metrics such as funded amounts, repayment trends, interest rates, and debt-to-income ratios. The dashboard highlights the distinction between good and bad loans, helping identify credit risk patterns. It also analyses loan performance based on borrower attributes like home ownership, employment length, and loan purpose. This project aims to support data-driven decisions in loan management and underwriting.
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<h2>🎯 Project Objectives</h2>
+<h2>🎯 Objectives</h2>
 
 •	Track and analyse key loan metrics such as total loan applications, total funded amount, total amount received, average interest rates, and debt-to-income ratios, including Month-to-Date (MTD) and Month-over-Month (MoM) trends.<br>
 
@@ -30,7 +45,7 @@ ________________________________________________________________________________
 The project is based on a comprehensive <a href='https://github.com/Tamal12322/Bank_Loan_Report-Tableau/blob/main/financial_loan.csv'>dataset</a> stored in csv file which encompasses various aspects of bank loans.
 ________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-<h2>🛠️ Project Methodology</h2>
+<h2>🛠️ Methodology</h2>
 
 1.	Data Collection: Imported the raw loan data (financial_loan.csv) consisting of 38,000+ records with borrower profiles, loan amounts, repayment statuses, and financial indicators.<br>
 2.	Data Cleaning & Preprocessing: Handled missing values, standardized date formats, categorized loan statuses (e.g., Good vs. Bad), and created derived fields like Month-to-Date (MTD) and Month-over-Month (MoM) metrics.<br>
